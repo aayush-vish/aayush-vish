@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: vishnoiaayush2019@gmail.com
 
 <h1 align="center">
-  <img src="Github Readme.png"/>
+  <img src="Github Banner.png"/>
 </h1>
