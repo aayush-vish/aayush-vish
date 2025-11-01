@@ -1,9 +1,5 @@
-<!-- ======= AAYUSH VISHNOI — GitHub Profile README ======= -->
-<!-- Minimal, security-focused, no dev stack, no emojis -->
-
 <!-- HEADER -->
-<h1 align="center">AAYUSH VISHNOI</h1>
-<p align="center"><b>Security Researcher • Offensive Security • ASM Engineering</b></p>
+<p align="center"><b>SECURITY RESEARCHER • OFFENSIVE SECURITY • SECURITY ENGINEERING • AISec</b></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Security%20Research-Active-111111?style=flat-square" />
@@ -11,10 +7,12 @@
   <img src="https://img.shields.io/badge/Focus-ASM%20%7C%20Recon-111111?style=flat-square" />
 </p>
 
-<hr/>
+<p align="center">
+  <img src="./light_logo.png" alt="Phoenix Protocol" width="700">
+</p>
 
 <!-- PROFILE -->
-## Profile
+## WHOAMI
 
 I identify blind spots in digital infrastructure before attackers do.
 
@@ -24,7 +22,7 @@ I identify blind spots in digital infrastructure before attackers do.
 - Focused on exposure intelligence, continuous recon, & breach-prevention strategy
 
 <!-- NEBULLA OS -->
-## Nebulla OS — Attack Surface Mapping Platform
+## NEBULLA OS — Attack Surface Mapping Platform
 
 > Internal platform engineered for large-scale reconnaissance, exposure monitoring, and autonomous discovery.
 
@@ -36,20 +34,19 @@ I identify blind spots in digital infrastructure before attackers do.
 | Operating Principles  | Scale • Stealth • Precision                                                |
 
 
-> If your organization needs to understand what the internet already knows about you — we should talk.
+<hr/>
 
-<!-- CONTACT -->
-## Connect
+<p align="center">
+  <strong>If your organization needs to understand what the internet already knows about you — we should talk.</strong>
+</p>
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/aayush-vishnoi-2b53b01b0">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/aayush-vish">
-    <img src="https://img.shields.io/badge/GitHub-111111.svg?&style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
-<hr/>
-
-<p align="center"><i>“Find exposure before attackers find opportunity.”</i></p>
+<p align="center"><i>Find exposure before attackers find opportunity.</i></p>
