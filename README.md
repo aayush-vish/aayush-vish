@@ -1,23 +1,55 @@
-### Hi 👋 I'm Aayush!
+<!-- ======= AAYUSH VISHNOI — GitHub Profile README ======= -->
+<!-- Minimal, security-focused, no dev stack, no emojis -->
 
-<!--
-**aayush-vish/aayush-vish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
-- 🔭 I’m a Certified Ethical Hacker and Front end Web Developer.
-- 🌱 I’m currently learning React Js, Data Structures and Algorithms in JAVA and Cyber Security.
-- 👯 I’m looking to collaborate in Web development and penetration testing.
-### 👨👩 Social:
+<!-- HEADER -->
+<h1 align="center">AAYUSH VISHNOI</h1>
+<p align="center"><b>Security Researcher • Offensive Security • ASM Engineering</b></p>
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/aayush-vishnoi-2b53b01b0/)
-[<img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white "/>](https://github.com/aayush-vish)
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://instagram.com/vishnoi_aayush)
+<p align="center">
+  <img src="https://img.shields.io/badge/Security%20Research-Active-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/Reports-2000%2B-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-ASM%20%7C%20Recon-111111?style=flat-square" />
+</p>
 
-### 🚀 Skills:
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>  <img src="https://img.shields.io/badge/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white"/>  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>  <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=whit"/>  <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>  <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>  <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>  <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>  <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>  
+<hr/>
+
+<!-- PROFILE -->
+## Profile
+
+I identify blind spots in digital infrastructure before attackers do.
+
+- Security Researcher & Offensive Security Engineer  
+- Reported **2000+ verified vulnerabilities** across global organizations  
+- Builder of **Nebulla OS** — an internal Attack Surface Mapping (ASM) & Recon platform  
+- Focused on exposure intelligence, continuous recon, & breach-prevention strategy
+
+<!-- NEBULLA OS -->
+## Nebulla OS — Attack Surface Mapping Platform
+
+> Internal platform engineered for large-scale reconnaissance, exposure monitoring, and autonomous discovery.
+
+| Capability           | Description                                                                 |
+|----------------------|-----------------------------------------------------------------------------|
+| Asset Intelligence    | Discovers domains, subdomains, services, shadow/forgotten infrastructure   |
+| Exposure Analytics    | High-level intelligence across DNS, SSL/TLS, and external network surface  |
+| Continuous Recon      | Tracks change over time and raises signals for new risks/exposures         |
+| Operating Principles  | Scale • Stealth • Precision                                                |
 
 
-<h1 align="center">
-  <img src="Github Banner.png"/>
-</h1>
- 
+> If your organization needs to understand what the internet already knows about you — we should talk.
+
+<!-- CONTACT -->
+## Connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/aayush-vishnoi-2b53b01b0">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/aayush-vish">
+    <img src="https://img.shields.io/badge/GitHub-111111.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<hr/>
+
+<p align="center"><i>“Find exposure before attackers find opportunity.”</i></p>
